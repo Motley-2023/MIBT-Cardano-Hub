@@ -20,4 +20,4 @@ To be Africa’s leading hub for blockchain innovation, education, and inclusive
 - Open documentation and transparent governance
 
 ## Live Hub
-https://mibt-cardano-hub-eight.vercel.app
+https://docs-gom2m65p2-mibt-cardano-hub.vercel.app/
